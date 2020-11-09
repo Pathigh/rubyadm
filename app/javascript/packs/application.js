@@ -12,6 +12,9 @@ require("channels")
 //= require bootstrap
 //= require adminlte
 //= require demo
+//= require daterangepicker
+//= require jquery.vmap
+//= require jquery.overlayScrollbars
 //= require dashboard
 
 
